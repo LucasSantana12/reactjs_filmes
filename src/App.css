@@ -1,0 +1,85 @@
+
+  a.nounderline:hover {
+    background-color:rgb(124, 21, 21);
+    
+}
+
+.content {
+  padding: 20px;
+  margin: 50px;
+  width: auto;
+  height: auto; 
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
+.site, p, ul, li {
+  font-family: sans-serif;
+  color: #FFF;
+  
+
+}
+.site{
+  margin: auto;
+  margin-block-end: 50px;
+  font-family: "Fira Code";
+  margin-left: 10px;
+    
+}
+
+
+ul.menu li {
+  display: inline;
+  list-style-type: none;
+  margin: 10px;
+}
+ul.menu {
+  background-color: rgba(194, 0, 0, 0.973);
+  padding: 0;
+  margin:auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-block-end: auto;
+}
+ul.menu li a {
+  color: #FFF;
+  
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
+  
+}
+
+.teste img:hover{
+  padding: auto;
+  background-color: rgb(150, 13, 13);
+}
+
+.teste img{
+  padding: 15px;
+}
+.butao{
+  margin-top: 10px;
+  background-color: rgb(150, 13, 13); /* Green */
+  border: none;
+  color: white;
+  padding: 20px 42px;
+  text-align: center;
+  text-decoration: none;
+
+  font-size: 16px;
+  
+
+ 
+}
+.img_filme{
+ margin-left: auto;
+}
+.butao:hover {
+  background-color:rgb(124, 21, 21);
+  
+}
